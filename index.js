@@ -60,7 +60,7 @@ const { jsx: _jsx } = window.__METABASE_VIZ_API__.jsxRuntime;
       settings: {
         threshold: {
           id: "1",
-          title: "Threshold updated",
+          title: "Threshold",
           widget: "number",
           getDefault() {
             return 0;
